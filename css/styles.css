@@ -38,7 +38,7 @@ font-size: 18px;
 
 .section-header{
 
-    background-image: url(/Img/header-shapes\ mobile.png);
+    background-image: url(/Img/Mbackgroud.png);
     background-repeat: no-repeat;
     background-clip: content-box;
     background-size: 100%;
@@ -70,7 +70,14 @@ font-size: 18px;
 
 .connecting-text,
 .socialMedia__group{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
     padding-left: 1.5rem;
+    color: #7F8CFF;
+
     
 
 }
